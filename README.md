@@ -1,4 +1,4 @@
-# Supervised Learning Algorithms
+# Supervised Learning Algorithm's
 
 This repository contains implementations of supervised learning algorithms and examples of how to solve problems using these algorithms. Supervised learning is a type of machine learning where the model is trained on labeled data to make predictions.
 
